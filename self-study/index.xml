@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studying what Matters on Michael McCarthy</title>
+    <link>https://michaelmccarthy.tidytales.ca/self-study/</link>
+    <description>Recent content in Studying what Matters on Michael McCarthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://michaelmccarthy.tidytales.ca/self-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self Study: An Introduction to Statistical Learning</title>
+      <link>https://michaelmccarthy.tidytales.ca/self-study/an-introduction-to-statistical-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/self-study/an-introduction-to-statistical-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

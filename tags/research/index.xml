@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Michael McCarthy</title>
+    <link>https://michaelmccarthy.tidytales.ca/tags/research/</link>
+    <description>Recent content in research on Michael McCarthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 May 2019 12:45:00 +0000</lastBuildDate><atom:link href="https://michaelmccarthy.tidytales.ca/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social priming does not influence performance on the Implicit Association Test</title>
+      <link>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-priming-replication/</link>
+      <pubDate>Sat, 11 May 2019 12:45:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-priming-replication/</guid>
+      <description>Abstract The present experiment tested the effects of indirect implicit attitude change on performance on the Implicit Association Test (IAT; Greenwald et al., 1998). The IAT is a subjective, indirect attitude measure widely used for business, research, and political purposes despite its unestablished construct validity and questionable reliability; thus, there is a growing need for research that identifies the cognitive mechanisms underlying IAT performance in order to assess its empirical value.</description>
+    </item>
+    
+    <item>
+      <title>Implicit Association Test effects are an artifact of design</title>
+      <link>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-design-artifacts/</link>
+      <pubDate>Sat, 11 May 2019 11:05:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-design-artifacts/</guid>
+      <description>Abstract Despite its popular use in academia, business, and politics, the Implicit Association Test (IAT; Greenwald et al., 1998) continues to suffer from a number of fundamental issues that give challenge to the test’s empirical value. The present research manipulated the difficulty of the IAT by introducing a rest period between the test’s congruent and incongruent blocks, in order to identify how the IAT’s design influences a test-taker’s performance.</description>
+    </item>
+    
+    <item>
+      <title>Positive test strategies and confirmation bias in social assessment</title>
+      <link>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_positive-test-strategies/</link>
+      <pubDate>Fri, 18 May 2018 14:45:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_positive-test-strategies/</guid>
+      <description>Abstract Snyder and Swann (1978) demonstrated that individuals systematically adopt confirmatory strategies and preferentially search for evidence that confirms existing beliefs. We suspect that Snyder and Swann’s results are an artifact of their methodology. In the present experiment, we replicated Snyder and Swann’s work, but had participants generate their own hypothesis testing questions instead of selecting questions from an existing list. Results did not replicate those of the original study.</description>
+    </item>
+    
+    <item>
+      <title>What they say is all I need</title>
+      <link>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_narrative-confirmation-bias/</link>
+      <pubDate>Fri, 18 May 2018 13:30:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_narrative-confirmation-bias/</guid>
+      <description>Abstract Social scientists have long known about the malleability of attitudes to persuasive communications. But what happens when changed attitudes transform into change-resilient beliefs? This review explores how confirmation bias, the tendency to search for, interpret, favour, and recall information in a way that confirms one’s pre-existing beliefs can be caused and reinforced by narratives—termed here as narrative-driven confirmation bias. Narrative-driven confirmation bias is ubiquitous and its implications for individual and group behaviour are serious; from its political use in garnering support and silencing alternative views to its influence on how healthcare providers diagnose their patients, this cognitive bias has the power to shape societies and change lives.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the role of advising in Canadian universities</title>
+      <link>https://michaelmccarthy.tidytales.ca/talk/2018-04-05_ufv-advising-evaluation/</link>
+      <pubDate>Thu, 05 Apr 2018 12:30:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-04-05_ufv-advising-evaluation/</guid>
+      <description>Abstract Advising has been slated as an integral part of Canadian student’s post-secondary education. This is typically framed in terms of the positive relationship between the use of advising services and student success. American research on this relationship has identified advising as a critical component in student retention and graduation rates. Comparatively, very little is currently known about the state, role, and effects of advising in Canada’s post-secondary institutions, as Canadian advisor’s knowledge and practice primarily relies on the theories, research, and findings of America’s advising literature.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consulting on Michael McCarthy</title>
+    <link>https://michaelmccarthy.tidytales.ca/consulting/</link>
+    <description>Recent content in Consulting on Michael McCarthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://michaelmccarthy.tidytales.ca/consulting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services</title>
+      <link>https://michaelmccarthy.tidytales.ca/consulting/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/consulting/services/</guid>
+      <description>A Recipe for Success When we want to use data to solve a problem you care about, our first step is to define your problem. Our second step is to determine the people affected by your problem, and what a meaningful solution looks like to them. Only then do we think about how data science can help.
+This recipe allows us to approach your problem with intent&amp;mdash;once we know what the problem you care about is and what a meaningful solution looks like to the people affected by it, we can work backward to figure out the data, analyses, and tools needed to solve your problem.</description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>https://michaelmccarthy.tidytales.ca/consulting/values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/consulting/values/</guid>
+      <description>Responsible Data Science When we use data science to solve a problem you care about, we have a responsibility to develop solutions that safeguard and promote the wellbeing of your audience. My framework for responsible data science helps you use data science responsibly and ethically.
+When we use data science to solve a problem you care about, we have a responsibility to you, your audience, and the people your data comes from to do good.</description>
+    </item>
+    
+    <item>
+      <title>Expertise</title>
+      <link>https://michaelmccarthy.tidytales.ca/consulting/expertise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/consulting/expertise/</guid>
+      <description>Ingredients for Data Science We can develop meaningful solutions for the problems you care about by using data science to turn data into knowledge, insight, and understanding. A typical data science project involves a variety of technical and interpersonal skills and looks something like this:
+Define your problem and the people affected by it Determine potential meaningful solutions to your problem Identify data sources and gather your data Tidy and prepare your data Explore and analyze your data Communicate your data story to decision makers and stakeholders Surrounding each of these processes are technical skills such as programming and statistics, and interpersonal skills such as relationship building and storytelling.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://michaelmccarthy.tidytales.ca/consulting/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/consulting/experience/</guid>
+      <description>Qualification Summary Detail-oriented data scientist with 5+ years experience solving business problems with data solutions Collected, analyzed, and interpreted data to provide sound basis for strategic business decisions Translated business questions into surveys to understand customer engagement and retention, and experiments to understand impact of program changes on ROI Presented data-driven insights to business leaders to support business initiatives Programmed, tested, and documented RStudio projects for automated, reproducible data cleaning, visualizing, modelling, and reporting Experience September 2020 – Present</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://michaelmccarthy.tidytales.ca/consulting/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/consulting/cv/</guid>
+      <description>Experience September 2020 – Present
+Research Scientist
+University of Calgary
+&amp;middot
+Calgary AB, Canada
+Secured $49,000 in federal and provincial research funding Led a talk and workshop on making data analyses reproducible September 2021 – April 2022
+Statistics Teaching Assistant
+University of Calgary
+&amp;middot
+Calgary AB, Canada
+Trained 25 graduate students to wrangle, visualize, model, and communicate results of univariate (general and generalized linear models, linear mixed effects models, linear and polynomial contrasts) and multivariate (MANOVA, DFA, EFA, CFA, SEM) data analyses Developed and delivered training materials teaching students how to complete their data analysis pipeline in R and R Markdown September 2020 – January 2022</description>
+    </item>
+    
+  </channel>
+</rss>

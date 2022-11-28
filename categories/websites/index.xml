@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>websites on Michael McCarthy</title>
+    <link>https://michaelmccarthy.tidytales.ca/categories/websites/</link>
+    <description>Recent content in websites on Michael McCarthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelmccarthy.tidytales.ca/categories/websites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tidy Tales</title>
+      <link>https://michaelmccarthy.tidytales.ca/project/tidytales/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelmccarthy.tidytales.ca/project/tidytales/</guid>
+      <description>Tidy Tales is a data science blog meant to demonstrate the skills needed in a typical data science project. Namely, wrangling, visualizing, modelling, and communicating data, all with the assistance of programming. The blog takes its name from the tidy data framework for structuring data, and from its narrative style. My inspiration for the blog came from Tidy Tuesday, a weekly data project for practicing and building data science skills with real-world data.</description>
+    </item>
+    
+  </channel>
+</rss>
