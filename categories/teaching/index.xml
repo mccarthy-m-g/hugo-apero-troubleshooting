@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>teaching on Michael McCarthy</title>
-    <link>https://michaelmccarthy.tidytales.ca/categories/teaching/</link>
+    <link>/categories/teaching/</link>
     <description>Recent content in teaching on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelmccarthy.tidytales.ca/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PSYC 617 Lab</title>
-      <link>https://michaelmccarthy.tidytales.ca/project/psyc-617-lab/</link>
+      <link>/project/psyc-617-lab/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/project/psyc-617-lab/</guid>
+      <guid>/project/psyc-617-lab/</guid>
       <description>The PSYC 617 lab covers applications of univariate and multivariate statistics to research design and analysis, including correlations, multiple regression, logistic regression, discriminant analysis, MANOVA, linear mixed models with nested and longitudinal designs, exploratory factor analysis, confirmatory factor analysis, path analysis, and structural equation modelling. This repository contains lab materials for students using R.</description>
     </item>
     
     <item>
       <title>PSYC 615 Lab</title>
-      <link>https://michaelmccarthy.tidytales.ca/project/psyc-615-lab/</link>
+      <link>/project/psyc-615-lab/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/project/psyc-615-lab/</guid>
+      <guid>/project/psyc-615-lab/</guid>
       <description>The PSYC 615 lab covers applications of the general linear model to research design and analysis. This repository contains lab materials for students using R.</description>
     </item>
     

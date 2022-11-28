@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks that Last on Michael McCarthy</title>
-    <link>https://michaelmccarthy.tidytales.ca/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Talks that Last on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 16:00:00 +0000</lastBuildDate><atom:link href="https://michaelmccarthy.tidytales.ca/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 16:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a website with open source software</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2022-03-04_creating-websites/</link>
+      <link>/talk/2022-03-04_creating-websites/</link>
       <pubDate>Fri, 04 Mar 2022 16:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2022-03-04_creating-websites/</guid>
+      <guid>/talk/2022-03-04_creating-websites/</guid>
       <description>Details     A website is a wonderful place for showcasing yourself, mobilizing knowledge in your learning community, building an online portfolio, or anything else you can imagine! Thanks to the power of open source software, creating a stylish website is quick, easy, and free. No programming experience required.
 In this workshop we will explore open source tools and workflows for creating and deploying websites. By the end of the workshop you will have your very own website up and running on the web; bring a picture and bio so you can begin to customize your site!</description>
     </item>
     
     <item>
       <title>Writing reproducible manuscripts in R Markdown</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2021-02-12_reproducible-manuscripts/</link>
+      <link>/talk/2021-02-12_reproducible-manuscripts/</link>
       <pubDate>Fri, 12 Feb 2021 16:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2021-02-12_reproducible-manuscripts/</guid>
+      <guid>/talk/2021-02-12_reproducible-manuscripts/</guid>
       <description>Details     This workshop covers principles and practices important for making your manuscripts reproducible by other scientists (or future you). We will learn about these principles and practices and how to implement them through a fake scientific paper, written by Bones and Spock from the television series Star Trek: The Original Series, made for showcasing how to write reproducible manuscripts in R Markdown.
 This workshop is a followup to my talk, Doing reproducible science.</description>
     </item>
     
     <item>
       <title>Doing reproducible science</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2021-01-29_reproducible-science/</link>
+      <link>/talk/2021-01-29_reproducible-science/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2021-01-29_reproducible-science/</guid>
+      <guid>/talk/2021-01-29_reproducible-science/</guid>
       <description>Event Details     | Speaker: Michael McCarthy | Date and Time: January 1, 2021, from 4:00 PM to 5:30 PM | Location: University of Calgary
 What is reproducibility and why is it important that your scientific work is reproducible? Reproducibility refers to a scientific pipeline whose steps, processes, procedures, and results can be reproduced by other scientists (or future you), ensuring that results can be verified, and that the decisions that led to those results can be understood.</description>
     </item>
     
     <item>
       <title>Social priming does not influence performance on the Implicit Association Test</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-priming-replication/</link>
+      <link>/talk/2019-05-11_iat-priming-replication/</link>
       <pubDate>Sat, 11 May 2019 12:45:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-priming-replication/</guid>
+      <guid>/talk/2019-05-11_iat-priming-replication/</guid>
       <description>Abstract     The present experiment tested the effects of indirect implicit attitude change on performance on the Implicit Association Test (IAT; Greenwald et al., 1998). The IAT is a subjective, indirect attitude measure widely used for business, research, and political purposes despite its unestablished construct validity and questionable reliability; thus, there is a growing need for research that identifies the cognitive mechanisms underlying IAT performance in order to assess its empirical value.</description>
     </item>
     
     <item>
       <title>Implicit Association Test effects are an artifact of design</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-design-artifacts/</link>
+      <link>/talk/2019-05-11_iat-design-artifacts/</link>
       <pubDate>Sat, 11 May 2019 11:05:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-design-artifacts/</guid>
+      <guid>/talk/2019-05-11_iat-design-artifacts/</guid>
       <description>Abstract     Despite its popular use in academia, business, and politics, the Implicit Association Test (IAT; Greenwald et al., 1998) continues to suffer from a number of fundamental issues that give challenge to the test’s empirical value. The present research manipulated the difficulty of the IAT by introducing a rest period between the test’s congruent and incongruent blocks, in order to identify how the IAT’s design influences a test-taker’s performance.</description>
     </item>
     
     <item>
       <title>Positive test strategies and confirmation bias in social assessment</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_positive-test-strategies/</link>
+      <link>/talk/2018-05-18_positive-test-strategies/</link>
       <pubDate>Fri, 18 May 2018 14:45:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_positive-test-strategies/</guid>
+      <guid>/talk/2018-05-18_positive-test-strategies/</guid>
       <description>Abstract     Snyder and Swann (1978) demonstrated that individuals systematically adopt confirmatory strategies and preferentially search for evidence that confirms existing beliefs. We suspect that Snyder and Swann’s results are an artifact of their methodology. In the present experiment, we replicated Snyder and Swann’s work, but had participants generate their own hypothesis testing questions instead of selecting questions from an existing list. Results did not replicate those of the original study.</description>
     </item>
     
     <item>
       <title>What they say is all I need</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_narrative-confirmation-bias/</link>
+      <link>/talk/2018-05-18_narrative-confirmation-bias/</link>
       <pubDate>Fri, 18 May 2018 13:30:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_narrative-confirmation-bias/</guid>
+      <guid>/talk/2018-05-18_narrative-confirmation-bias/</guid>
       <description>Abstract     Social scientists have long known about the malleability of attitudes to persuasive communications. But what happens when changed attitudes transform into change-resilient beliefs? This review explores how confirmation bias, the tendency to search for, interpret, favour, and recall information in a way that confirms one’s pre-existing beliefs can be caused and reinforced by narratives—termed here as narrative-driven confirmation bias. Narrative-driven confirmation bias is ubiquitous and its implications for individual and group behaviour are serious; from its political use in garnering support and silencing alternative views to its influence on how healthcare providers diagnose their patients, this cognitive bias has the power to shape societies and change lives.</description>
     </item>
     
     <item>
       <title>Exploring the role of advising in Canadian universities</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2018-04-05_ufv-advising-evaluation/</link>
+      <link>/talk/2018-04-05_ufv-advising-evaluation/</link>
       <pubDate>Thu, 05 Apr 2018 12:30:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-04-05_ufv-advising-evaluation/</guid>
+      <guid>/talk/2018-04-05_ufv-advising-evaluation/</guid>
       <description>Abstract     Advising has been slated as an integral part of Canadian student’s post-secondary education. This is typically framed in terms of the positive relationship between the use of advising services and student success. American research on this relationship has identified advising as a critical component in student retention and graduation rates. Comparatively, very little is currently known about the state, role, and effects of advising in Canada’s post-secondary institutions, as Canadian advisor’s knowledge and practice primarily relies on the theories, research, and findings of America’s advising literature.</description>
     </item>
     

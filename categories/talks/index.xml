@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>talks on Michael McCarthy</title>
-    <link>https://michaelmccarthy.tidytales.ca/categories/talks/</link>
+    <link>/categories/talks/</link>
     <description>Recent content in talks on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate><atom:link href="https://michaelmccarthy.tidytales.ca/categories/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate><atom:link href="/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doing reproducible science</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2021-01-29_reproducible-science/</link>
+      <link>/talk/2021-01-29_reproducible-science/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2021-01-29_reproducible-science/</guid>
+      <guid>/talk/2021-01-29_reproducible-science/</guid>
       <description>Event Details     | Speaker: Michael McCarthy | Date and Time: January 1, 2021, from 4:00 PM to 5:30 PM | Location: University of Calgary
 What is reproducibility and why is it important that your scientific work is reproducible? Reproducibility refers to a scientific pipeline whose steps, processes, procedures, and results can be reproduced by other scientists (or future you), ensuring that results can be verified, and that the decisions that led to those results can be understood.</description>
     </item>
     
     <item>
       <title>Implicit Association Test effects are an artifact of design</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-design-artifacts/</link>
+      <link>/talk/2019-05-11_iat-design-artifacts/</link>
       <pubDate>Sat, 11 May 2019 11:05:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2019-05-11_iat-design-artifacts/</guid>
+      <guid>/talk/2019-05-11_iat-design-artifacts/</guid>
       <description>Abstract     Despite its popular use in academia, business, and politics, the Implicit Association Test (IAT; Greenwald et al., 1998) continues to suffer from a number of fundamental issues that give challenge to the test’s empirical value. The present research manipulated the difficulty of the IAT by introducing a rest period between the test’s congruent and incongruent blocks, in order to identify how the IAT’s design influences a test-taker’s performance.</description>
     </item>
     
     <item>
       <title>Positive test strategies and confirmation bias in social assessment</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_positive-test-strategies/</link>
+      <link>/talk/2018-05-18_positive-test-strategies/</link>
       <pubDate>Fri, 18 May 2018 14:45:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2018-05-18_positive-test-strategies/</guid>
+      <guid>/talk/2018-05-18_positive-test-strategies/</guid>
       <description>Abstract     Snyder and Swann (1978) demonstrated that individuals systematically adopt confirmatory strategies and preferentially search for evidence that confirms existing beliefs. We suspect that Snyder and Swann’s results are an artifact of their methodology. In the present experiment, we replicated Snyder and Swann’s work, but had participants generate their own hypothesis testing questions instead of selecting questions from an existing list. Results did not replicate those of the original study.</description>
     </item>
     

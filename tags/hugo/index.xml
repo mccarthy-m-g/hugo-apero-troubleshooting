@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Michael McCarthy</title>
-    <link>https://michaelmccarthy.tidytales.ca/tags/hugo/</link>
+    <link>/tags/hugo/</link>
     <description>Recent content in Hugo on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 16:00:00 +0000</lastBuildDate><atom:link href="https://michaelmccarthy.tidytales.ca/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 16:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a website with open source software</title>
-      <link>https://michaelmccarthy.tidytales.ca/talk/2022-03-04_creating-websites/</link>
+      <link>/talk/2022-03-04_creating-websites/</link>
       <pubDate>Fri, 04 Mar 2022 16:00:00 +0000</pubDate>
       
-      <guid>https://michaelmccarthy.tidytales.ca/talk/2022-03-04_creating-websites/</guid>
+      <guid>/talk/2022-03-04_creating-websites/</guid>
       <description>Details     A website is a wonderful place for showcasing yourself, mobilizing knowledge in your learning community, building an online portfolio, or anything else you can imagine! Thanks to the power of open source software, creating a stylish website is quick, easy, and free. No programming experience required.
 In this workshop we will explore open source tools and workflows for creating and deploying websites. By the end of the workshop you will have your very own website up and running on the web; bring a picture and bio so you can begin to customize your site!</description>
     </item>
