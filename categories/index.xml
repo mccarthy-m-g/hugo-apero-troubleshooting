@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Michael McCarthy</title>
-    <link>/categories/</link>
+    <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/</link>
     <description>Recent content in Categories on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R packages</title>
-      <link>/categories/r-packages/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/r-packages/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r-packages/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/r-packages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshops</title>
-      <link>/categories/workshops/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/workshops/</link>
       <pubDate>Fri, 04 Mar 2022 16:00:00 +0000</pubDate>
       
-      <guid>/categories/workshops/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/workshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teaching</title>
-      <link>/categories/teaching/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/teaching/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/teaching/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>websites</title>
-      <link>/categories/websites/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/websites/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/websites/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/websites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talks</title>
-      <link>/categories/talks/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/talks/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
       
-      <guid>/categories/talks/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>posters</title>
-      <link>/categories/posters/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/posters/</link>
       <pubDate>Sat, 11 May 2019 12:45:00 +0000</pubDate>
       
-      <guid>/categories/posters/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/posters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>books</title>
-      <link>/categories/books/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/books/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/categories/books/</guid>
       <description></description>
     </item>
     

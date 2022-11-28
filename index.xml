@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael McCarthy</title>
-    <link>/</link>
+    <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/</link>
     <description>Recent content on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
-      <link>/consulting/services/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/services/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/services/</guid>
       <description>A Recipe for Success     When we want to use data to solve a problem you care about, our first step is to define your problem. Our second step is to determine the people affected by your problem, and what a meaningful solution looks like to them. Only then do we think about how data science can help.
 This recipe allows us to approach your problem with intent&amp;mdash;once we know what the problem you care about is and what a meaningful solution looks like to the people affected by it, we can work backward to figure out the data, analyses, and tools needed to solve your problem.</description>
     </item>
     
     <item>
       <title>Values</title>
-      <link>/consulting/values/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/values/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/values/</guid>
       <description>Responsible Data Science     When we use data science to solve a problem you care about, we have a responsibility to develop solutions that safeguard and promote the wellbeing of your audience. My framework for responsible data science helps you use data science responsibly and ethically.
 When we use data science to solve a problem you care about, we have a responsibility to you, your audience, and the people your data comes from to do good.</description>
     </item>
     
     <item>
       <title>Expertise</title>
-      <link>/consulting/expertise/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/expertise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/expertise/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/expertise/</guid>
       <description>Ingredients for Data Science     We can develop meaningful solutions for the problems you care about by using data science to turn data into knowledge, insight, and understanding. A typical data science project involves a variety of technical and interpersonal skills and looks something like this:
  Define your problem and the people affected by it Determine potential meaningful solutions to your problem Identify data sources and gather your data Tidy and prepare your data Explore and analyze your data Communicate your data story to decision makers and stakeholders  Surrounding each of these processes are technical skills such as programming and statistics, and interpersonal skills such as relationship building and storytelling.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/consulting/experience/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/experience/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/experience/</guid>
       <description>Qualification Summary  Detail-oriented data scientist with 5+ years experience solving business problems with data solutions  Collected, analyzed, and interpreted data to provide sound basis for strategic business decisions  Translated business questions into surveys to understand customer engagement and retention, and experiments to understand impact of program changes on ROI  Presented data-driven insights to business leaders to support business initiatives  Programmed, tested, and documented RStudio projects for automated, reproducible data cleaning, visualizing, modelling, and reporting      Experience  September 2020 – Present</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>/consulting/cv/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/consulting/cv/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/consulting/cv/</guid>
       <description>Experience  September 2020 – Present
  Research Scientist
 University of Calgary
@@ -67,158 +67,158 @@ Trained 25 graduate students to wrangle, visualize, model, and communicate resul
     
     <item>
       <title>palettes</title>
-      <link>/project/palettes/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/palettes/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/palettes/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/palettes/</guid>
       <description>The goal of palettes is to provide methods for working with colour palettes, particularly for developers who want to make their own colour palette package. This package is in very early development.</description>
     </item>
     
     <item>
       <title>Creating a website with open source software</title>
-      <link>/talk/2022-03-04_creating-websites/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2022-03-04_creating-websites/</link>
       <pubDate>Fri, 04 Mar 2022 16:00:00 +0000</pubDate>
       
-      <guid>/talk/2022-03-04_creating-websites/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2022-03-04_creating-websites/</guid>
       <description>Details     A website is a wonderful place for showcasing yourself, mobilizing knowledge in your learning community, building an online portfolio, or anything else you can imagine! Thanks to the power of open source software, creating a stylish website is quick, easy, and free. No programming experience required.
 In this workshop we will explore open source tools and workflows for creating and deploying websites. By the end of the workshop you will have your very own website up and running on the web; bring a picture and bio so you can begin to customize your site!</description>
     </item>
     
     <item>
       <title>PSYC 617 Lab</title>
-      <link>/project/psyc-617-lab/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-617-lab/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/psyc-617-lab/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-617-lab/</guid>
       <description>The PSYC 617 lab covers applications of univariate and multivariate statistics to research design and analysis, including correlations, multiple regression, logistic regression, discriminant analysis, MANOVA, linear mixed models with nested and longitudinal designs, exploratory factor analysis, confirmatory factor analysis, path analysis, and structural equation modelling. This repository contains lab materials for students using R.</description>
     </item>
     
     <item>
       <title>PSYC 615 Lab</title>
-      <link>/project/psyc-615-lab/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-615-lab/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/psyc-615-lab/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-615-lab/</guid>
       <description>The PSYC 615 lab covers applications of the general linear model to research design and analysis. This repository contains lab materials for students using R.</description>
     </item>
     
     <item>
       <title>distilltools</title>
-      <link>/project/distilltools/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/distilltools/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/distilltools/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/distilltools/</guid>
       <description>The distilltools package is collection of tools to support the creation and styling of content on websites created using the distill package in R. You can see my contributions to the distilltools package on GitHub.</description>
     </item>
     
     <item>
       <title>soda</title>
-      <link>/project/soda/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/soda/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/soda/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/soda/</guid>
       <description>The goal of soda is to allow you to programmatically access a wealth of open data resources from governments, non-profits, and NGOs around the world using the Socrata Open Data API (SODA) or Discovery API. This package is in very early development.</description>
     </item>
     
     <item>
       <title>Tidy Tales</title>
-      <link>/project/tidytales/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/tidytales/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/tidytales/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/tidytales/</guid>
       <description>Tidy Tales is a data science blog meant to demonstrate the skills needed in a typical data science project. Namely, wrangling, visualizing, modelling, and communicating data, all with the assistance of programming. The blog takes its name from the tidy data framework for structuring data, and from its narrative style. My inspiration for the blog came from Tidy Tuesday, a weekly data project for practicing and building data science skills with real-world data.</description>
     </item>
     
     <item>
       <title>Writing reproducible manuscripts in R Markdown</title>
-      <link>/talk/2021-02-12_reproducible-manuscripts/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2021-02-12_reproducible-manuscripts/</link>
       <pubDate>Fri, 12 Feb 2021 16:00:00 +0000</pubDate>
       
-      <guid>/talk/2021-02-12_reproducible-manuscripts/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2021-02-12_reproducible-manuscripts/</guid>
       <description>Details     This workshop covers principles and practices important for making your manuscripts reproducible by other scientists (or future you). We will learn about these principles and practices and how to implement them through a fake scientific paper, written by Bones and Spock from the television series Star Trek: The Original Series, made for showcasing how to write reproducible manuscripts in R Markdown.
 This workshop is a followup to my talk, Doing reproducible science.</description>
     </item>
     
     <item>
       <title>Doing reproducible science</title>
-      <link>/talk/2021-01-29_reproducible-science/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2021-01-29_reproducible-science/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
       
-      <guid>/talk/2021-01-29_reproducible-science/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2021-01-29_reproducible-science/</guid>
       <description>Event Details     | Speaker: Michael McCarthy | Date and Time: January 1, 2021, from 4:00 PM to 5:30 PM | Location: University of Calgary
 What is reproducibility and why is it important that your scientific work is reproducible? Reproducibility refers to a scientific pipeline whose steps, processes, procedures, and results can be reproduced by other scientists (or future you), ensuring that results can be verified, and that the decisions that led to those results can be understood.</description>
     </item>
     
     <item>
       <title>embedr</title>
-      <link>/project/embedr/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/embedr/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/project/embedr/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/embedr/</guid>
       <description>A wrapper for the &amp;lt;audio&amp;gt; and &amp;lt;video&amp;gt; HTML commands in R. It allows you to embed multimedia files in HTML documents generated by R using R code instead of raw HTML. Its functions also include arguments for including placeholder text instead of embedded multimedia files when generating non-HTML documents in R.</description>
     </item>
     
     <item>
       <title>Social priming does not influence performance on the Implicit Association Test</title>
-      <link>/talk/2019-05-11_iat-priming-replication/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2019-05-11_iat-priming-replication/</link>
       <pubDate>Sat, 11 May 2019 12:45:00 +0000</pubDate>
       
-      <guid>/talk/2019-05-11_iat-priming-replication/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2019-05-11_iat-priming-replication/</guid>
       <description>Abstract     The present experiment tested the effects of indirect implicit attitude change on performance on the Implicit Association Test (IAT; Greenwald et al., 1998). The IAT is a subjective, indirect attitude measure widely used for business, research, and political purposes despite its unestablished construct validity and questionable reliability; thus, there is a growing need for research that identifies the cognitive mechanisms underlying IAT performance in order to assess its empirical value.</description>
     </item>
     
     <item>
       <title>Implicit Association Test effects are an artifact of design</title>
-      <link>/talk/2019-05-11_iat-design-artifacts/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2019-05-11_iat-design-artifacts/</link>
       <pubDate>Sat, 11 May 2019 11:05:00 +0000</pubDate>
       
-      <guid>/talk/2019-05-11_iat-design-artifacts/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2019-05-11_iat-design-artifacts/</guid>
       <description>Abstract     Despite its popular use in academia, business, and politics, the Implicit Association Test (IAT; Greenwald et al., 1998) continues to suffer from a number of fundamental issues that give challenge to the test’s empirical value. The present research manipulated the difficulty of the IAT by introducing a rest period between the test’s congruent and incongruent blocks, in order to identify how the IAT’s design influences a test-taker’s performance.</description>
     </item>
     
     <item>
       <title>Positive test strategies and confirmation bias in social assessment</title>
-      <link>/talk/2018-05-18_positive-test-strategies/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2018-05-18_positive-test-strategies/</link>
       <pubDate>Fri, 18 May 2018 14:45:00 +0000</pubDate>
       
-      <guid>/talk/2018-05-18_positive-test-strategies/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2018-05-18_positive-test-strategies/</guid>
       <description>Abstract     Snyder and Swann (1978) demonstrated that individuals systematically adopt confirmatory strategies and preferentially search for evidence that confirms existing beliefs. We suspect that Snyder and Swann’s results are an artifact of their methodology. In the present experiment, we replicated Snyder and Swann’s work, but had participants generate their own hypothesis testing questions instead of selecting questions from an existing list. Results did not replicate those of the original study.</description>
     </item>
     
     <item>
       <title>What they say is all I need</title>
-      <link>/talk/2018-05-18_narrative-confirmation-bias/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2018-05-18_narrative-confirmation-bias/</link>
       <pubDate>Fri, 18 May 2018 13:30:00 +0000</pubDate>
       
-      <guid>/talk/2018-05-18_narrative-confirmation-bias/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2018-05-18_narrative-confirmation-bias/</guid>
       <description>Abstract     Social scientists have long known about the malleability of attitudes to persuasive communications. But what happens when changed attitudes transform into change-resilient beliefs? This review explores how confirmation bias, the tendency to search for, interpret, favour, and recall information in a way that confirms one’s pre-existing beliefs can be caused and reinforced by narratives—termed here as narrative-driven confirmation bias. Narrative-driven confirmation bias is ubiquitous and its implications for individual and group behaviour are serious; from its political use in garnering support and silencing alternative views to its influence on how healthcare providers diagnose their patients, this cognitive bias has the power to shape societies and change lives.</description>
     </item>
     
     <item>
       <title>Exploring the role of advising in Canadian universities</title>
-      <link>/talk/2018-04-05_ufv-advising-evaluation/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2018-04-05_ufv-advising-evaluation/</link>
       <pubDate>Thu, 05 Apr 2018 12:30:00 +0000</pubDate>
       
-      <guid>/talk/2018-04-05_ufv-advising-evaluation/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/talk/2018-04-05_ufv-advising-evaluation/</guid>
       <description>Abstract     Advising has been slated as an integral part of Canadian student’s post-secondary education. This is typically framed in terms of the positive relationship between the use of advising services and student success. American research on this relationship has identified advising as a critical component in student retention and graduation rates. Comparatively, very little is currently known about the state, role, and effects of advising in Canada’s post-secondary institutions, as Canadian advisor’s knowledge and practice primarily relies on the theories, research, and findings of America’s advising literature.</description>
     </item>
     
     <item>
       <title>Building new Connections</title>
-      <link>/contact/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
     <item>
       <title>Self Study: An Introduction to Statistical Learning</title>
-      <link>/self-study/an-introduction-to-statistical-learning/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/self-study/an-introduction-to-statistical-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/self-study/an-introduction-to-statistical-learning/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/self-study/an-introduction-to-statistical-learning/</guid>
       <description></description>
     </item>
     

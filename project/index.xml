@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects with Impact on Michael McCarthy</title>
-    <link>/project/</link>
+    <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/</link>
     <description>Recent content in Projects with Impact on Michael McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>palettes</title>
-      <link>/project/palettes/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/palettes/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/palettes/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/palettes/</guid>
       <description>The goal of palettes is to provide methods for working with colour palettes, particularly for developers who want to make their own colour palette package. This package is in very early development.</description>
     </item>
     
     <item>
       <title>PSYC 617 Lab</title>
-      <link>/project/psyc-617-lab/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-617-lab/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/psyc-617-lab/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-617-lab/</guid>
       <description>The PSYC 617 lab covers applications of univariate and multivariate statistics to research design and analysis, including correlations, multiple regression, logistic regression, discriminant analysis, MANOVA, linear mixed models with nested and longitudinal designs, exploratory factor analysis, confirmatory factor analysis, path analysis, and structural equation modelling. This repository contains lab materials for students using R.</description>
     </item>
     
     <item>
       <title>PSYC 615 Lab</title>
-      <link>/project/psyc-615-lab/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-615-lab/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/psyc-615-lab/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/psyc-615-lab/</guid>
       <description>The PSYC 615 lab covers applications of the general linear model to research design and analysis. This repository contains lab materials for students using R.</description>
     </item>
     
     <item>
       <title>distilltools</title>
-      <link>/project/distilltools/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/distilltools/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/distilltools/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/distilltools/</guid>
       <description>The distilltools package is collection of tools to support the creation and styling of content on websites created using the distill package in R. You can see my contributions to the distilltools package on GitHub.</description>
     </item>
     
     <item>
       <title>soda</title>
-      <link>/project/soda/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/soda/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/soda/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/soda/</guid>
       <description>The goal of soda is to allow you to programmatically access a wealth of open data resources from governments, non-profits, and NGOs around the world using the Socrata Open Data API (SODA) or Discovery API. This package is in very early development.</description>
     </item>
     
     <item>
       <title>Tidy Tales</title>
-      <link>/project/tidytales/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/tidytales/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/tidytales/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/tidytales/</guid>
       <description>Tidy Tales is a data science blog meant to demonstrate the skills needed in a typical data science project. Namely, wrangling, visualizing, modelling, and communicating data, all with the assistance of programming. The blog takes its name from the tidy data framework for structuring data, and from its narrative style. My inspiration for the blog came from Tidy Tuesday, a weekly data project for practicing and building data science skills with real-world data.</description>
     </item>
     
     <item>
       <title>embedr</title>
-      <link>/project/embedr/</link>
+      <link>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/embedr/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/project/embedr/</guid>
+      <guid>https://mccarthy-m-g.github.io/hugo-apero-troubleshooting/project/embedr/</guid>
       <description>A wrapper for the &amp;lt;audio&amp;gt; and &amp;lt;video&amp;gt; HTML commands in R. It allows you to embed multimedia files in HTML documents generated by R using R code instead of raw HTML. Its functions also include arguments for including placeholder text instead of embedded multimedia files when generating non-HTML documents in R.</description>
     </item>
     
