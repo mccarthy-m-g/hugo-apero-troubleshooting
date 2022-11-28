@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://chimerical-smakager-d3659c.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Michael McCarthy"
