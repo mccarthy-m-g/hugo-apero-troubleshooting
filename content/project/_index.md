@@ -4,9 +4,9 @@ description: |
   My portfolio includes software and educational resources I have contributed to or created that solve real world problems.
 
 show_author_byline: true
-show_post_date: false
-show_post_thumbnail: false
-show_button_links: false
+show_post_date: true
+show_post_thumbnail: true
+show_button_links: true
 
 cascade:    
   show_author_byline: true
