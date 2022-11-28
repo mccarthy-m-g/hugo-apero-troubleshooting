@@ -1,0 +1,20 @@
+[build]
+command = "hugo"
+publish = "public"
+[build.environment]
+HUGO_VERSION = "0.89.2"
+
+[context]
+[context.branch-deploy]
+command = "hugo -F -b $DEPLOY_PRIME_URL"
+[context.deploy-preview]
+command = "hugo -F -b $DEPLOY_PRIME_URL"
+[context.production]
+[context.production.environment]
+HUGO_ENV = "production"
+
+[[redirects]]
+  from = "/self-study/an-introduction-to-statistical-learning/*"
+  to = "https://tidytales-an-introduction-to-statistical-learning.netlify.app/:splat"
+  status = 200
+  force = true

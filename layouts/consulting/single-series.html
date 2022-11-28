@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $page := . }}
+<main class="page-main ph4 pt4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 pr3-l">
+      <header class="post-header">
+        {{ partial "shared/breadcrumb.html" . }}
+      </header>
+      <section class="post-body pt0 pb4">
+        {{ .Content }}
+      </section>
+      <footer class="post-footer">
+        {{ partial "shared/post-pagination.html" . }}
+      </footer>
+    </article>
+    {{ if .Params.show_comments }}
+      {{ partial "shared/comments.html" . }}
+    {{ end }}
+  </section>
+</main>
+
+<aside class="page-sidebar" role="complementary">
+  {{ partial "shared/section-sidebar-scaffold.html" . }}
+</aside>
+
+{{ end }}
