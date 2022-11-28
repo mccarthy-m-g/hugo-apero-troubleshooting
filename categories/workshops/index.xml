@@ -13,7 +13,7 @@
       <pubDate>Fri, 04 Mar 2022 16:00:00 +0000</pubDate>
       
       <guid>https://michaelmccarthy.tidytales.ca/talk/2022-03-04_creating-websites/</guid>
-      <description>Details A website is a wonderful place for showcasing yourself, mobilizing knowledge in your learning community, building an online portfolio, or anything else you can imagine! Thanks to the power of open source software, creating a stylish website is quick, easy, and free. No programming experience required.
+      <description>Details     A website is a wonderful place for showcasing yourself, mobilizing knowledge in your learning community, building an online portfolio, or anything else you can imagine! Thanks to the power of open source software, creating a stylish website is quick, easy, and free. No programming experience required.
 In this workshop we will explore open source tools and workflows for creating and deploying websites. By the end of the workshop you will have your very own website up and running on the web; bring a picture and bio so you can begin to customize your site!</description>
     </item>
     
@@ -23,7 +23,7 @@ In this workshop we will explore open source tools and workflows for creating an
       <pubDate>Fri, 12 Feb 2021 16:00:00 +0000</pubDate>
       
       <guid>https://michaelmccarthy.tidytales.ca/talk/2021-02-12_reproducible-manuscripts/</guid>
-      <description>Details This workshop covers principles and practices important for making your manuscripts reproducible by other scientists (or future you). We will learn about these principles and practices and how to implement them through a fake scientific paper, written by Bones and Spock from the television series Star Trek: The Original Series, made for showcasing how to write reproducible manuscripts in R Markdown.
+      <description>Details     This workshop covers principles and practices important for making your manuscripts reproducible by other scientists (or future you). We will learn about these principles and practices and how to implement them through a fake scientific paper, written by Bones and Spock from the television series Star Trek: The Original Series, made for showcasing how to write reproducible manuscripts in R Markdown.
 This workshop is a followup to my talk, Doing reproducible science.</description>
     </item>
     
