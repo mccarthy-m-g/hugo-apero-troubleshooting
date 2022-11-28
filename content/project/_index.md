@@ -6,7 +6,7 @@ description: |
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
-show_button_links: true
+show_button_links: false
 
 cascade:    
   show_author_byline: true
